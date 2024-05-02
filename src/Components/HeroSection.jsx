@@ -22,7 +22,7 @@ const HeroSection = () => {
 				>
 					Start for Free
 				</a>
-				<a href="#" className="py-3 px-4 mx-3 rounded-md border">
+				<a href="#" className="py-3 px-4 mx-3 rounded-md border hover:bg-orange-700 hover:border-orange-700 transition duration-300">
 					{" "}
 					Documentation
 				</a>
